@@ -61,7 +61,3 @@ A DIY smartwatch project built using Mbed OS that displays time, weather, news, 
 ## Note
 
 You'll need to obtain your own API key for the WeatherAPI service to get weather data.
-
-## License
-
-This project is open source and available under the MIT License.
